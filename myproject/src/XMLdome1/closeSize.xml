@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="gb2312"?>
+<PhoneInfo>
+	<Brand name="华为">
+		<Type name="p9">
+	</Type>
+	</Brand>
+	<Brand name="苹果">
+		<Type name="Iphone6">
+		<Type name="Iphone7">
+	</Type>	
+	</Type>
+	</Brand>
+</PhoneInfo>

@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package Animal1;
+
+/**
+ * @author Administrator
+ *Ω”∑…≈Ãπ¶ƒ‹
+ */
+public interface FlyingDiscCatchable {
+		void catchingFlyDisc();
+}

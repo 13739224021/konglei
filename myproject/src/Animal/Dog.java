@@ -1,0 +1,16 @@
+package Animal;
+
+public class Dog extends Pet {
+
+	@Override
+	public void eat() {
+		// TODO Auto-generated method stub
+		System.out.println("π∑‘⁄≥‘π«Õ∑......");
+	}
+	public void dogPlay() {
+		System.out.println("π∑‘À∂Ø");
+	}
+	public void dogPlay1() {
+		System.out.println("π∑ÕÊ∑…≈Ã");
+	}
+}
